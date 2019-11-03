@@ -1,6 +1,6 @@
 # Tic-tac-toe
 A mini game tic-tac-toe implemented in C.
-<p style="line-height:150%"><span lang="EN-US" style='font-size:14.0pt;line-height:150%;font-family:"Lucida Bright",serif;&#10;mso-bidi-font-family:Tahoma'>Problem Statement</span></p>
+<p style="line-height:150%"><span lang="EN-US" style='font-size:11.0pt;line-height:150%;font-family:"Tahoma",serif;&#10;mso-bidi-font-family:Tahoma'>Problem Statement</span></p>
 
 <p style="line-height:150%"><span lang="EN-US" style='font-size:11.0pt;line-height:150%;font-family:"Tahoma",sans-serif;&#10;mso-fareast-font-family:宋体;mso-font-kerning:0pt'>To ask players to input tokens
 on the plate using the numeric keys. Since the 9 squares on the plate are
