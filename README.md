@@ -88,5 +88,4 @@ rules about placing the tokens.</span></p>
 logical judgments to define whether the game is a win, a lose or a draw.</span></p>
 
 <p align="left" style=""><span lang="EN-US" style="font-size:11.0pt;">8. Detect and report
-if there is an illegal input. (This part will be explained thoroughly in the
-following “<b style="">Robustness</b>” section.)</span></p>
+if there is an illegal input.</span></p>
