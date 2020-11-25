@@ -19,7 +19,7 @@ _row_ is assigned as 7 and it represents the numbers in a single row.
 _column_ is assigned as 3 and it represents the numbers in a single column.  
 
 2. Declare a series of functions and variables:  
-_char p row column_ means declaring a 2D array of _row*column_.  
+_char p [row] [column]_ means declaring a 2D array of _row*column_.  
 _int board(char p row column)_ means that the 2D array should be inserted into an assigned integer as the game board.  
 _char order (int a)_ means that an integer a should be inserted into a character order.  
 _int judge(char p row column)_ means that the 2D array should be inserted into an integer as a judgment basis.  
