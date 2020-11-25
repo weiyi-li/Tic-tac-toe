@@ -1,19 +1,10 @@
 # Tic-tac-toe
 A mini game tic-tac-toe implemented in C.
-<h3><span lang="EN-US">Problem Statement</span></h3>
 
-<p style=""><span lang="EN-US" style="font-size:11.0pt;">To ask players to input tokens
-on the plate using the numeric keys. Since the 9 squares on the plate are
-marked with integers from 1 to 9 respectively, players need to input tokens by
-tapping numeric keys 1 - 9. The program should judge that player 1 or player 2
-have won the game when 3 tokens with the same type are in a line. And the
-program should consider it as a draw when the 9 squares are filled with tokens
-but without the 3 same type tokens in a line. Besides, illegal inputs should be
-detected and reported, which are any inputs other than the integer numbers from
-1 to 9. Repeated inputs are also considered as illegal and will be reported if
-input.</span><span lang="EN-US" style="font-size:14.0pt;"></span></p>
+## Problem statement
+To ask players to input tokens on the plate using the numeric keys. Since the 9 squares on the plate are marked with integers from 1 to 9 respectively, players need to input tokens by tapping numeric keys 1 - 9. The program should judge that player 1 or player 2 have won the game when 3 tokens with the same type are in a line. And the program should consider it as a draw when the 9 squares are filled with tokens but without the 3 same type tokens in a line. Besides, illegal inputs should be detected and reported, which are any inputs other than the integer numbers from 1 to 9. Repeated inputs are also considered as illegal and will be reported if input.
 
-<h3><span lang="EN-US">Analysis</span></h3>
+## Analysis
 
 <p align="left" style=""><span lang="EN-US" style="font-size:11.0pt;">(Assume that the user only inputs valid data.)</span></p>
 
