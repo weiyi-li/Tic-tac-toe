@@ -20,11 +20,11 @@ _column_ is assigned as 3 and it represents the numbers in a single column.
 
 2. Declare a series of functions and variables:  
 _char p [row] [column]_ means declaring a 2D array of _row*column_.  
-_int board(char p row column)_ means that the 2D array should be inserted into an assigned integer as the game board.  
+_int board(char p [row] [column])_ means that the 2D array should be inserted into an assigned integer as the game board.  
 _char order (int a)_ means that an integer a should be inserted into a character order.  
-_int judge(char p row column)_ means that the 2D array should be inserted into an integer as a judgment basis.  
+_int judge(char p [row] [column])_ means that the 2D array should be inserted into an integer as a judgment basis.  
 _int sum = 1_ represents an integer assigned as 1.  
-_int operate(char p row column, int sum)_ means declaring a function operate with elements _char p row column_ and _int sum_.  
+_int operate(char p [row] [column], int sum)_ means declaring a function operate with elements _char p row column_ and _int sum_.  
 _int x_ represents an integer _x_, which refers to a number in a single row, or the number of columns.  
 _int y_ represents an integer _y_, which refers to a number in a single column, or the number of rows.  
 _char s = 48_ means assigning a character _s_ as 48 according to ASCLL, which equals to 0 decimal.  
