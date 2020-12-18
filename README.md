@@ -17,7 +17,6 @@ The same number cannot be chosen repeatedly
 1. Define 2 variables: _row_ and _column_  
 _row_ is assigned as 7 and it represents the numbers in a single row.  
 _column_ is assigned as 3 and it represents the numbers in a single column.  
-
 2. Declare a series of functions and variables:  
 _char p [row] [column]_ means declaring a 2D array of _row*column_.  
 _int board(char p [row] [column])_ means that the 2D array should be inserted into an assigned integer as the game board.  
@@ -30,17 +29,23 @@ _int y_ represents an integer _y_, which refers to a number in a single column, 
 _char s = 48_ means assigning a character _s_ as 48 according to ASCLL, which equals to 0 decimal.  
 _int ch_ represents an integer _ch_.  
 _int num = 0_ means that the integer is assigned as 0.  
-
 3. Design an opening interface of the game.  
-
 4. Build a single judging loop to guide players to start the game and lead to the main interface
 of the game.  
-
 5. Print out the game board in the main interface using defined 2D array.  
-
 6. Define the game rules about placing the tokens.  
-
 7. Evaluate the logical judgments to define whether the game is a win, a lose or a draw.  
-
 8. Detect and report if there is an illegal input.  
+
+## Demonstration
+### Gameboard
+![Image](https://github.com/weiyi-li/Tic-tac_toe/blob/master/Image/Gameboard.jpg)
+### 'O' wins
+![Image](https://github.com/weiyi-li/Tic-tac_toe/blob/master/Image/Owins.jpg)
+### 'X' wins
+![Image](https://github.com/weiyi-li/Tic-tac_toe/blob/master/Image/Xwins.jpg)
+### Draw
+![Image](https://github.com/weiyi-li/Tic-tac_toe/blob/master/Image/Draw.jpg)
+### Illegal Input
+![Image](https://github.com/weiyi-li/Tic-tac_toe/blob/master/Image/Illegal_input.jpg)
 
