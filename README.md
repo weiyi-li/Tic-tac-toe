@@ -39,13 +39,13 @@ of the game.
 
 ## Demonstration
 ### Gameboard
-![Image](https://github.com/weiyi-li/Tic-tac_toe/blob/master/Image/Gameboard.jpg)
+![Image](https://github.com/weiyi-li/Tic-tac_toe/tree/master/Image/Gameboard.jpg)
 ### 'O' wins
-![Image](https://github.com/weiyi-li/Tic-tac_toe/blob/master/Image/Owins.jpg)
+![Image](https://github.com/weiyi-li/Tic-tac_toe/tree/master/Image/Owins.jpg)
 ### 'X' wins
-![Image](https://github.com/weiyi-li/Tic-tac_toe/blob/master/Image/Xwins.jpg)
+![Image](https://github.com/weiyi-li/Tic-tac_toe/tree/master/Image/Xwins.jpg)
 ### Draw
-![Image](https://github.com/weiyi-li/Tic-tac_toe/blob/master/Image/Draw.jpg)
+![Image](https://github.com/weiyi-li/Tic-tac_toe/tree/master/Image/Draw.jpg)
 ### Illegal Input
-![Image](https://github.com/weiyi-li/Tic-tac_toe/blob/master/Image/Illegal_input.jpg)
+![Image](https://github.com/weiyi-li/Tic-tac_toe/tree/master/Image/Illegal_input.jpg)
 
